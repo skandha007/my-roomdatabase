@@ -25,7 +25,7 @@ Pre-requisites
 * Make sure Android Studio is updated, as well as your SDK and Gradle.
 Otherwise, you may have to wait for a while until all the updates are done.
 
-* A device or emulator that runs API level 26
+* A device or emulator.
 
 You need to be solidly familiar with the Java programming language,
 object-oriented design concepts, and Android Development Fundamentals.
