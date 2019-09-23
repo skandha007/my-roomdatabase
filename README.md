@@ -34,11 +34,6 @@ In particular:
 * RecyclerView and Adapters
 * SQLite database and the SQLite query language
 * Threading and AsyncTask
-* It helps to be familiar with software architectural patterns that separate
-  data from the user interface, such as MVP or MVC. This codelab implements the
-  architecture defined in the
-  [Guide to App Architecture](
-  https://developer.android.com/topic/libraries/architecture/guide.html)
 
 Getting Started
 ---------------
